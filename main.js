@@ -1,10 +1,10 @@
 // variables
-let xjav = 23  
-xjav = "changed 123"
-alert(xjav)
+let jamx = 23  
+jamx = "changed 123"
+alert(jamx)
 
-let japaneseOralSex = "Xjav Premium"
-alert(japaneseOralSex)
+let funstuff = "Premium"
+alert(funstuff)
 
 
 // after using this command you cannot change the 123 again
@@ -14,12 +14,11 @@ const cantbechanged = 123
 const inputElement = document.querySelector(".username")
 
 
-let javx = null
+let jamxx = null
 let aoishirosaki = undefined
-let BBCshrosaki = false
-let shrosakirepairman = true 
-aoishirosaki = "creampienobabies"
-
+let TVshrosaki = false
+let shrosakirepair = true 
+aoishirosaki = "Nowayy"
 
 console.log(inputElement)
 console.log(aoishirosaki)
@@ -27,7 +26,7 @@ console.log(aoishirosaki)
 
 
 // functions
-shiroskaiclub("hello, ", "asukachann")
+shiroskaiclub("hello, ", "syumin")
 
 function shiroskaiclub(fristnumber,secondnumber){
 let total= fristnumber+secondnumber
